@@ -25,7 +25,7 @@ public class Test03 {
         }
 
         int rows = matrix.length;   //数组的行数
-        int cols = matrix[1].length;    //数组行的列数
+        int cols = matrix[0].length;    //数组行的列数
 
         int row = 0;    //起始开始的行高
         int col = cols - 1;     //起始开始的列高
