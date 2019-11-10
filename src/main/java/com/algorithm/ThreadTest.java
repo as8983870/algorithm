@@ -4,6 +4,7 @@ import java.util.concurrent.Semaphore;
 
 public class ThreadTest {
     static int result = 0;
+
     public static void main(String[] args) throws InterruptedException {
         int N = 3;
         Thread[] threads = new Thread[N];
