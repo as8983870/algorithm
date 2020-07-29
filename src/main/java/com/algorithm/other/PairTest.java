@@ -26,5 +26,5 @@ public class PairTest {
             System.out.println(_pair.toString());
         }
     }
-    
+
 }
