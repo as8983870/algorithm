@@ -3,7 +3,7 @@ package com.algorithm.test02;
 /**
  * Created by h on 2018/4/16.
  */
-public class Test02 {
+public class SingletonTest {
 
     /**
      * 单例模式，饿汉式，线程安全
